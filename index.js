@@ -9,3 +9,11 @@ function whipser(string){
 function logShout(string){
   console.log(string.toUpperCase());
 }
+
+function logWhipser(string){
+  console.log(string.toLowerCase);
+}
+
+function sayHiToGrandma(string){
+  
+}
